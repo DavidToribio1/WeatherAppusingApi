@@ -1,7 +1,6 @@
 const weatherBtn = document.getElementById('show-weather')
 const userInput = document.getElementById('zipcode')
-const api_Key = '2509ec90a8034ff2caa33987f3801a09'
-let zip;
+
 
 let cityName = document.getElementById('city-name')
 let latitude = document.getElementById('lat')
